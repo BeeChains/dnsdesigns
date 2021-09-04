@@ -1,2 +1,2 @@
-# dnsdesigns
+# dnsdesigns/
 DNS DESIGNS/
